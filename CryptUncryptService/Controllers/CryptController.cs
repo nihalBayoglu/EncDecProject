@@ -22,7 +22,7 @@ namespace CryptUncryptService.Controllers
             _checkToken = checkToken;
 
             factory = new ConnectionFactory();
-            factory.Uri = new Uri("amqps://mpyxpyno:qhMstPVcQnSL_9dmiuvPSF_IIdP2RZxr@codfish.rmq.cloudamqp.com/mpyxpyno");
+            factory.Uri = new Uri("xxx");
         }
 
         [HttpPost("GetEncryptData")]
