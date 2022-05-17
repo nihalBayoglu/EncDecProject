@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncDecService", "EncDecService\EncDecService.csproj", "{D218E1E9-A483-4335-944A-2AC875C455C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptUncryptService", "CryptUncryptService\CryptUncryptService.csproj", "{DF14C6E4-F17A-4AD6-9CC4-01D29F79F032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D218E1E9-A483-4335-944A-2AC875C455C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D218E1E9-A483-4335-944A-2AC875C455C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D218E1E9-A483-4335-944A-2AC875C455C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D218E1E9-A483-4335-944A-2AC875C455C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF14C6E4-F17A-4AD6-9CC4-01D29F79F032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF14C6E4-F17A-4AD6-9CC4-01D29F79F032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF14C6E4-F17A-4AD6-9CC4-01D29F79F032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF14C6E4-F17A-4AD6-9CC4-01D29F79F032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18446A62-40D3-4CDD-BB5E-B97CE49FCADE}
+	EndGlobalSection
+EndGlobal
